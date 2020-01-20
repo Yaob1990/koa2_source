@@ -1,4 +1,7 @@
 # koa2_source
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/Yaob1990/koa2_source.svg)](https://greenkeeper.io/)
+
 koa2 源码学习
 
 逐行阅读koa2源码，并添加详细注释。

@@ -26,10 +26,10 @@
     "cache-content-type": "^1.0.0",
     "content-disposition": "~0.5.2",
     "content-type": "^1.0.4",
-    "cookies": "~0.7.1",
-    "debug": "~3.1.0",
+    "cookies": "~0.8.0",
+    "debug": "~4.1.1",
     "delegates": "^1.0.0",
-    "depd": "^1.1.2",
+    "depd": "^2.0.0",
     "destroy": "^1.0.4",
     "encodeurl": "^1.0.2",
     "error-inject": "^1.0.0",
@@ -52,11 +52,11 @@
     "egg-bin": "^4.13.0",
     "eslint": "^6.0.1",
     "eslint-config-koa": "^2.0.0",
-    "eslint-config-standard": "^7.0.1",
-    "eslint-plugin-promise": "^3.5.0",
-    "eslint-plugin-standard": "^2.1.1",
+    "eslint-config-standard": "^14.1.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-standard": "^4.0.1",
     "mm": "^2.5.0",
-    "supertest": "^3.1.0"
+    "supertest": "^4.0.2"
   },
   "engines": {
     "node": "^4.8.4 || ^6.10.1 || ^7.10.1 || >= 8.1.4"
